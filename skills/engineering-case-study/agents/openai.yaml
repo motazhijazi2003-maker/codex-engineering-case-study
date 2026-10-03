@@ -1,0 +1,7 @@
+interface:
+  display_name: "Engineering Case Study"
+  short_description: "Turn engineering artifacts into evidenced case studies"
+  default_prompt: "Use $engineering-case-study to document this engineering project using its source artifacts."
+
+policy:
+  allow_implicit_invocation: true
